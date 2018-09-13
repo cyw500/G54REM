@@ -1,0 +1,15 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'lit review.blg'
+[44] biber:287> INFO - === Thu Sep 13, 2018, 15:31:40
+[145] Biber.pm:348> INFO - Reading 'lit review.bcf'
+[304] Biber.pm:742> INFO - Found 3 citekeys in bib section 0
+[310] Biber.pm:3151> INFO - Processing section 0
+[341] Biber.pm:3308> INFO - Looking for bibtex format file 'references.bib' for section 0
+[351] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[358] bibtex.pm:974> INFO - Found BibTeX data source 'references.bib'
+[432] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[432] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[432] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[432] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[437] bbl.pm:519> INFO - Writing 'lit review.bbl' with encoding 'UTF-8'
+[450] bbl.pm:615> INFO - Output to lit review.bbl

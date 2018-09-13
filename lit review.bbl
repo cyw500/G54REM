@@ -1,0 +1,111 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global}
+    \entry{dresner2004multiagent}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=a7438bdb1e6ce8d9d27ce29a13748dd8}{%
+           family={Dresner},
+           family_i={D\bibinitperiod},
+           given={Kurt},
+           given_i={K\bibinitperiod}}}%
+        {{uniquename=0,hash=3f42a499da2cddc0bae71b76c81f7c46}{%
+           family={Stone},
+           family_i={S\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE Computer Society}%
+      }
+      \strng{namehash}{37398612af4d3fcdafc746b22708fea7}
+      \strng{fullhash}{37398612af4d3fcdafc746b22708fea7}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2004}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems-Volume 2}
+      \field{month}{07}
+      \field{title}{Multiagent traffic management: A reservation-based intersection control mechanism}
+      \field{year}{2004}
+      \field{pages}{530\bibrangedash 537}
+      \range{pages}{8}
+    \endentry
+    \entry{dresner2008multiagent}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=a7438bdb1e6ce8d9d27ce29a13748dd8}{%
+           family={Dresner},
+           family_i={D\bibinitperiod},
+           given={Kurt},
+           given_i={K\bibinitperiod}}}%
+        {{uniquename=0,hash=3f42a499da2cddc0bae71b76c81f7c46}{%
+           family={Stone},
+           family_i={S\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{37398612af4d3fcdafc746b22708fea7}
+      \strng{fullhash}{37398612af4d3fcdafc746b22708fea7}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of artificial intelligence research}
+      \field{title}{A multiagent approach to autonomous intersection management}
+      \field{volume}{31}
+      \field{year}{2008}
+      \field{pages}{591\bibrangedash 656}
+      \range{pages}{66}
+    \endentry
+    \entry{Uberkill}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=023f080f5f2d8e5adabaa97101d6c4bd}{%
+           family={Zemansky},
+           family_i={Z\bibinitperiod},
+           given={Rebekah},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{023f080f5f2d8e5adabaa97101d6c4bd}
+      \strng{fullhash}{023f080f5f2d8e5adabaa97101d6c4bd}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelyear}{2018}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New York Times}
+      \field{title}{How a Self-Driving Uber Killed a Pedestrian in Arizona}
+      \field{urlday}{12}
+      \field{urlmonth}{09}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \verb{url}
+      \verb https://www.nytimes.com/interactive/2018/03/20/us/self-driving-uber-pedestrian-killed.html
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -1,0 +1,52 @@
+\documentclass[12pt]{article}
+\usepackage{import}
+\usepackage{preamble}
+
+
+\begin{document}
+
+\import{./}{title.tex}
+
+\newpage
+\pagenumbering{gobble}
+
+\tableofcontents
+\listoffigures
+\listoftables
+\newpage
+
+\pagenumbering{arabic}
+\section{Intro}
+
+The first fatal crash involving pedestrian cause by a self-driving vehicle \autocite{Uberkill}. Despite that, we shouldn't be deter by the incident. A evaluation of current methods and implementation that could enable autonomous vehicles to drive safely on the road.
+\begin{itemize}
+
+  \item ethics of who die
+  \item probability/predict the outcome of all scenarios
+\end{itemize}
+
+\subsection{Depth and speed estimation}
+ - reviewing different disparity method to estimate depth and speed of object
+
+\section{}
+\subsection{}
+\subsection{}
+
+\section{Object detection}
+
+\section{Stimulation}
+%\parentcite{dresner2004multiagent,dresner2008multiagent}
+
+%\cite{williams1997edd}
+\textcite{dresner2008multiagent}
+\autocite{dresner2004multiagent}
+
+\newpage
+
+\raggedright
+%https://tex.stackexchange.com/questions/196665/harvard-style-referencing
+%\bibliography{mendeley}
+%\newrefcontext[sorting=nyt]
+\printbibliography
+
+\end{document}
